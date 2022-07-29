@@ -10,9 +10,9 @@ projeto com a finalidade de gerar senhas aleatorias de acordo com o total de car
 
 <h3>Contacts 📧<h3/>
 </br>
-  #### Linkedin - @Jaiane Santos </br>
-  #### Github - @Jaiane-santos  </br>
-  #### Email - jaiane.dossantos.andrade@gmail.com
+ <h4>  Linkedin - @Jaiane Santos<h4/> </br> 
+ <h4>  Github - @Jaiane-santos<h4/>  </br>
+ <h4>  Email - jaiane.dossantos.andrade@gmail.com<h4/>
 
   
   
