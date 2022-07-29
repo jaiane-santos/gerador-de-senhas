@@ -8,7 +8,7 @@ projeto com a finalidade de gerar senhas aleatorias de acordo com o total de car
 ### hosting link github pages:https://jaiane-santos.github.io/gerador-de-senhas/
 </br> 
 
-<h3>Contacts 📧<h3/>
+<h2>Contacts 📧<h2/>
 
  <h4>  Linkedin - @Jaiane Santos<h4/>  
  <h4>  Github - @Jaiane-santos<h4/> 
